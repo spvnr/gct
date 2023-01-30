@@ -1,0 +1,43 @@
+
+
+.form1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+ 
+
+
+.Regform{
+
+    font-weight: bold;
+    background-color:lightblue;
+    color: black;
+    width: 1000px;
+    height: 100%;
+    margin-left: 260px;
+    margin-top: 80px;
+    border-radius: 20px;
+    padding-top: 50px;
+    padding-left: 100px;
+    margin-bottom: 200px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+
+
+button{
+    width:200px;
+    background-color: #002060;
+    height: 50px;
+    margin-left: 280px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: aqua;
+    cursor: pointer;
+}

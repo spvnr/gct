@@ -1,0 +1,33 @@
+.navbar{
+    background-color: #002060;
+    display: flex;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+
+}
+.navbar > li{
+    list-style-type: none;
+    padding: 20px;
+}
+
+.lll{
+    list-style-type: none;
+    text-decoration: none;
+    color: #fff;
+}
+
+li{
+    list-style-type:none;
+    padding: 20px;
+    flex-grow: 1;
+    background-color:#002060;
+    text-decoration: none;
+    text-align: center;
+    
+}
+li:hover
+{
+    background-color: #555;
+    cursor: pointer;
+}

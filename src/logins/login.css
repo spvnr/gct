@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.main{
+    position: relative;
+  
+    
+}
+.one{
+    position: absolute;
+    top: 35%;
+    left: 38%;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Geneva, sans-serif;
+    width: 500px;
+    padding: 34px;
+    background-color:rgba(255,255,255, 0.6) ;
+    
+    border: 1px dotted brown;
+
+}
+
+
+
+
+img{
+    width: 100%;
+    margin: 0;
+    opacity: 0.9;
+}
+.logintable > tr {
+    padding: 23px;
+}
+.logintable > h2 {
+    margin-left: 30px;
+
+}
+
